@@ -1,1 +1,1 @@
-Website made using my basic knowledge of HTML, CSS and JavaScript.
+Website made using my basic knowledge of HTML and CSS.
